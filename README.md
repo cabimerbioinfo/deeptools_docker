@@ -1,4 +1,4 @@
-The macs2_bedtools Docker container is based on Ubuntu 22.04 and includes MACS2 and Bedtools. It provides three key scripts to facilitate its usage in HPC clusters:
+The deeptools Docker container is based on Ubuntu 20.04 and includes deeptools. It provides three key scripts to facilitate its usage in HPC clusters:
 
 **BAM Coverage**: bamCoverage.sh runs the deeptools bamCoverage command
 
